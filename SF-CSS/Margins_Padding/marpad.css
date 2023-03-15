@@ -1,0 +1,14 @@
+h1 {
+    margin: 10px;
+    border: solid;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+    border: solid;
+}
+
+body {
+    margin: 0px;
+}

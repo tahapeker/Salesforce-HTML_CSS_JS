@@ -1,0 +1,20 @@
+body {
+    background-color: darkslategray;
+}
+
+#headpara {
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 50%;
+}
+
+#para {
+    background-color: darksalmon;
+    width: inherit;
+}
+
+#unlist {
+    background-color: azure;
+    height: 200px;
+    width: 20%;
+}

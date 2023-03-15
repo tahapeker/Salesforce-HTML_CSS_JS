@@ -1,0 +1,19 @@
+h1 {
+    color: chocolate;
+}
+
+#another {
+    color: #274c77;
+}
+
+p {
+    color: rgba(6, 157, 18, 80%);
+}
+
+p.para2 {
+    color: hsla(250, 100%, 50%, 75%);
+}
+
+ul.para2 {
+    color: crimson;
+}

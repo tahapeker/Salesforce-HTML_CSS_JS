@@ -1,0 +1,16 @@
+body {
+    background-image: url('../../SF-HTML/Links_Bookmarks_Images/pictures/pic1.jpg');
+    background-repeat: no-repeat;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+li.even {
+    background-color: darkseagreen;
+}
+
+li.odd {
+    background-color: rgb(234, 231, 231);
+}
