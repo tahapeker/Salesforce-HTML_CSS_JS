@@ -5,4 +5,4 @@ function message(){
     console.log("I am "+age+" years old");
 }
 
-export default {message};
+export default message;
